@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+.bandera {
+    background-color:rgb(0, 0, 0);
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    float: left;
+}
+
+.sp1 {
+    background-color: red;
+    height: 25%;
+}
+
+.sp2 {
+    background-color: yellow;
+    height: 50%;
+}
+
+.sp3 {
+    background-color: red;
+    height: 25%;
+}
+
+.it1 {
+    background-color: green;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.it2 {
+    background-color: white;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.it3 {
+    background-color: red;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
